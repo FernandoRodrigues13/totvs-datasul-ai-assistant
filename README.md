@@ -112,8 +112,8 @@ Follow these steps to run the complete platform locally with the pre-packaged de
 
 ### 1. Clone & Set Up Virtual Environment
 ```bash
-git clone https://github.com/SEU_USUARIO/enterprise-erp-ai-copilot.git
-cd enterprise-erp-ai-copilot
+git clone https://github.com/FernandoRodrigues13/totvs-datasul-ai-assistant.git
+cd totvs-datasul-ai-assistant
 
 python -m venv .venv
 # Windows:
